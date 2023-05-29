@@ -1,0 +1,3 @@
+[submodule "Externals/fdnToolbox"]
+	path = Externals/fdnToolbox
+	url = https://github.com/SebastianJiroSchlecht/fdnToolbox
