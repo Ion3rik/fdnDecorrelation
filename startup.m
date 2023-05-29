@@ -2,6 +2,7 @@
 clear; clc; close all;
 
 addpath(genpath('./auxiliary'))
+addpath(genpath('./Externals/fdnToolbox'))
 
 %% List File and Product dependencies
 % files = dir('./**/*.m');
