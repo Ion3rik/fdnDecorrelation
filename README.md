@@ -1,7 +1,9 @@
 # fdnDecorrelation
 Matlab code for decorrelation analysis of feedback delay networks. 
 
-This repository provides Matlab code for repeating the results of the paper: S. J. Schlecht, J. Fageström, and V. Välimäki, "Decorrelation in Feedback Delay Networks", IEEE
+This repository provides Matlab code for repeating the results of the paper: 
+
+S. J. Schlecht, J. Fageström, and V. Välimäki, "Decorrelation in Feedback Delay Networks", IEEE
 Trans. Audio, Speech, Lang. Process., vol. x, no. x, pp.
 x–x, Month 2023.
 
